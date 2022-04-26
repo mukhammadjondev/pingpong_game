@@ -61,6 +61,8 @@ body {
     border: 0;
     border-radius: 3px;
     font-size: 0.8rem;
+    cursor: pointer;
+    user-select: none;
 }
 
 .player_btn:hover {
