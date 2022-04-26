@@ -64,7 +64,7 @@ body {
 }
 
 .player_btn:hover {
-    color: #222;
+    color: rgb(59, 58, 58);
     box-shadow: 3px 3px 3px rgb(97, 174, 238);
 }
 
